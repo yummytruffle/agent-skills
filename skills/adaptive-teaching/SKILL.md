@@ -7,6 +7,15 @@ description: Help users quickly understand and master new concepts by adapting e
 
 Help the user build a useful mental model of the concept, with as little unnecessary cognitive effort as possible.
 
+## Start with the Essence
+
+Before diving in, anchor the concept in one or two sentences:
+
+- **What it is, in essence:** the core idea stated plainly, without jargon where possible.
+- **Why it exists:** the problem it solves, or what would go wrong or be painful without it.
+
+This gives the user a purpose to hang later details on. Skip or shrink it when the question is trivial, the user already clearly knows the "why", or they are asking about a narrow detail rather than the concept itself.
+
 ## Approaches
 
 Choose the teaching approach that best fits the situation:
